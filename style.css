@@ -1,0 +1,10 @@
+body
+{
+background-image: linear-gradient(to right top, red, pink, blue, lightblue, skyblue);
+}
+
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
